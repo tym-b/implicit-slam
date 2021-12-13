@@ -1,0 +1,8 @@
+tensorflow==2.6.2
+numpy
+matplotlib
+scikit-image
+tensorflow_graphics
+trimesh==3.9.29
+pyglet
+shapely
